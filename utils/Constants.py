@@ -1,0 +1,3 @@
+TABLE_NAME = "notes"
+COLUMN_NAME_TITLE = "title"
+COLUMN_NAME_DESCRIPTION = "description"
